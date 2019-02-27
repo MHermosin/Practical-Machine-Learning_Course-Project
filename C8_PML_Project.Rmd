@@ -1,7 +1,7 @@
 ---
-title: "Practical Machine Learning Course Project"
-author: "Petr Minin"
-date: '22 ÿíâàğÿ 2018 ã '
+title: "Practical Machine Learning_Course Project"
+author: "MoisÃ©s HermosÃ­n GarcÃ­a"
+date: '22 February 2019 Ã£ '
 output: html_document
 ---
 
